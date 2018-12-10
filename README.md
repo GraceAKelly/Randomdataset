@@ -1,19 +1,10 @@
 # Randomdataset
 
-Random Data Set Generation.ipynb is a simulation of a data set using Python based on a real-world phenomenon.
-The data is modeled on manufacturing data of 100 synthesised batches across variables status
+Random Data Set Generation.ipynb was created using a Jupyter notebook for the simulation of a data set using Python based on a real-world phenomenon.
+The data is modeled on manufacturing data of 100 synthesised batches across four variables status location, name of person responsible, the batch status and a target date.
 
-We suggest you use the numpy.random package for this purpose.
-Specifically, in this project you should:
-• Choose a real-world phenomenon that can be measured and for which you could
-collect at least one-hundred data points across at least four different variables.
-• Investigate the types of variables involved, their likely distributions, and their
-relationships with each other.
-• Synthesise/simulate a data set as closely matching their properties as possible.
-• Detail your research and implement the simulation in a Jupyter notebook – the
-data set itself can simply be displayed in an output cell within the notebook.
-Note that this project is about simulation – you must synthesise a data set. Some
-students may already have some real-world data sets in their own files. It is okay to
-base your synthesised data set on these should you wish (please reference it if you do),
-but the main task in this project is to create a synthesised data set. The next section
-gives an example project idea.
+The notebook explains the distribution of the four variables and their relationship with each other.
+
+The data set is displayed in an output cell within the notebook.
+
+---------------------------------------------------------------------------------------------------------------------------------------
